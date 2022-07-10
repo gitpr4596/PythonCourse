@@ -45,7 +45,8 @@
 
 
 # Solution:
-
-# remainder = 15 % 4
-# print(remainder)
+Num1 = 15 
+Num2 = 4 
+remainder = Num1 % Num2
+print(remainder) 
 
